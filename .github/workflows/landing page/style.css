@@ -16,7 +16,7 @@ section {
 main {
     height: 80vh;
     width: 70vw;
-    background: url(./assets/img/Bg.jpg);
+    background: url(.github/workflows/landing page/assets/img/bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
